@@ -1,13 +1,13 @@
 ✨ Creating bugs since 2018  
-🏫 Studying in 金华市第四中学  
+🏫 Studying in *Jinhua No.4 Middle School*  
 📚 I'm currently learning OI (Olympiad in Informatics)  
-🎯 I'll try my best to enter 金华市第一中学  
+🎯 I'll try my best to enter *Jinhua No.1 High School*  
 📓 I have a [blog site](https://zihan-hu.netlify.app/)  
 
 <details>
 <summary>Coding with...</summary>
 
-<div>
+<div style="margin-top: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
